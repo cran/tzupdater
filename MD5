@@ -1,11 +1,12 @@
-0c6acaa672468efa165373e7e8a48aa9 *DESCRIPTION
-f00e246a2b64af58ee1cba2e62ba8162 *LICENSE
+5ca9f23f72202b97c9359fd2c47f5979 *DESCRIPTION
+462136aa664079b4dec391bf2f010c4f *LICENSE
 0273100162e87136b893c7e6552fb8f6 *NAMESPACE
 38c44b120f5b3589674f6ecb9e5394f1 *R/hidden.R
-22f242ac5b9388b3cb753a76f05ee78a *R/tzupdater.R
+d654633ad182d1f4093611985f482d44 *R/tzupdater-package.R
+c97964a3aa29f9ed0d7e12d553ac5fd2 *R/tzupdater.R
 fd1bb5905a5a1ad47ff0d8fb3569c70b *README.md
 fda21b266129cfbc5c1cd8df549a230d *man/get_active_tz_db.Rd
 aad2e5b8448f7659e6d8818feacd1d84 *man/get_last_published_tz.Rd
 69e9b11e219856f109099abc2ef2593b *man/install_last_tz.Rd
 27673065a402ad1c4e5282dafd886a7f *man/install_tz.Rd
-7400f98bfa6a7e3c8bb66be9269e1d4b *man/tzupdater.Rd
+7e523bb3cc4387ec4d90ed046718839e *man/tzupdater-package.Rd
