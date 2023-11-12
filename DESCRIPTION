@@ -1,7 +1,7 @@
 Package: tzupdater
 Type: Package
 Title: Time Zone Database Updater
-Version: 0.1.3
+Version: 0.1.5
 Author: Sebastien Thonnard
 Maintainer: Sebastien Thonnard <sebastien.thonnard@icloud.com>
 Description: Download and compile any version of the
@@ -13,6 +13,6 @@ Encoding: UTF-8
 RoxygenNote: 7.2.3
 Imports: utils
 NeedsCompilation: no
-Packaged: 2023-10-05 17:53:55 UTC; sebastienthonnard
+Packaged: 2023-11-12 07:35:27 UTC; sebastienthonnard
 Repository: CRAN
-Date/Publication: 2023-11-04 14:30:02 UTC
+Date/Publication: 2023-11-12 09:30:02 UTC
